@@ -2,12 +2,12 @@
 
 A simple python and javascript project that uses the following to draw a chart for daily returns along a period of 50 days of a market stock:
 
-for backend:
+#### for backend:
 - Flask==1.1.2
 - pandas==1.0.3
 - requests==2.23.0
 
-for frontend:
+#### for frontend:
 - javascript
 - chart.js
 - select2.js
