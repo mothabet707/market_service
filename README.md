@@ -1,6 +1,7 @@
 # market_service
 
-A simple python and javascript project that uses the following draw a chart for daily returns along a period of 50 days of a market stock:
+A simple python and javascript project that uses the following to draw a chart for daily returns along a period of 50 days of a market stock:
+
 for backend:
 - Flask==1.1.2
 - pandas==1.0.3
